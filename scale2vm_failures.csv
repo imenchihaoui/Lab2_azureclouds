@@ -1,0 +1,3 @@
+Method,Name,Error,Occurrences
+GET,/numericalintegralservice/0/3.14159,HTTPError('502 Server Error: Bad Gateway for url: /numericalintegralservice/0/3.14159'),1
+GET,/numericalintegralservice/0/3.14159,"ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None)",14

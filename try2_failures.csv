@@ -1,0 +1,2 @@
+Method,Name,Error,Occurrences
+GET,/numericalintegralservice/0/3.14159,"ConnectionRefusedError(10061, '[WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée.')",12
